@@ -16,6 +16,3 @@ A concise reference document covering commonly asked **Python** and **Data Analy
 ## File
  
 - `Python_DataAnalysis_Interview_QA.docx` – full Q&A document
-## Author
- 
-Prepared as an assignment submission.
